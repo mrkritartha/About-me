@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Kritartha Paliwal 🤓
+## Hi there👋! My name is Kritartha Paliwal 🤓
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="300" width = "600" />  
@@ -9,7 +9,8 @@
 
 ### <div align="center">My Brief Introduction</div><br />
 
-- 🎓 I'm a Bachelors of Technology.
+- 🎓 I'm a Bachelors of Technology. 6x Microsoft Certified Professional, 2x Google Certified and Tableau Certified.
+- Completed Diploma in Robotic Process Automation from "University of Toronto". 
 
 - 🌱 Passionate about Business, Statistics, Data, AI, Automations and Emerging Technologies.
 
@@ -41,7 +42,7 @@
 <div align="center">  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="80" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" height="80" />  
-<img style="margin: 10px" src="https://posthog.com/brand/posthog-logo.svg" alt="PostHog" height="80" />  
+<img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Fgoogle_analytics%2F&psig=AOvVaw1U59nQD_Bn875sKiP-Ku53&ust=1745691422848000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjoy73l84wDFQAAAAAdAAAAABAE" alt="PostHog" height="80" />  
 
 </div>
 
