@@ -42,7 +42,7 @@
 <div align="center">  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="80" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" height="80" />  
-<img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Fgoogle_analytics%2F&psig=AOvVaw1U59nQD_Bn875sKiP-Ku53&ust=1745691422848000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjoy73l84wDFQAAAAAdAAAAABAE" alt="PostHog" height="80" />  
+<img style="margin: 10px" src="C:\Users\Kritartha\Downloads\google_analytics-ar21.svg" alt="PostHog" height="80" />  
 
 </div>
 
