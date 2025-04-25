@@ -69,7 +69,7 @@
 <br/>  
 
 <div align="center">
-  <a href="https://github.com/96feilin96/96Feilin96?tab=readme-ov-file" target="_blank">
+  <a href="https://github.com/mrkritartha/About-me/edit/main/README.md" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.linkedin.com/in/kritartha-paliwal-636b0012a/" target="_blank">
@@ -78,10 +78,12 @@
 </div>  
   
 
+<! --
 <br/>  
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=96feilin96&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=mrkritartha&&style=flat-square" align="center" />
 </div>  
   
-<br/>  
+<br/> 
+ -->
