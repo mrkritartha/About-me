@@ -41,7 +41,7 @@
 ### Data Visualization Tools
 <div align="center">  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="80" />  
-<img style="margin: 10px" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power_bi-logo-freelogovectors.net_-640x360.png" alt="Power BI" height="80" />  
+<img style="margin: 10px" src="https://www.freelogovectors.net/wp-content/uploads/2023/11/power_bi-logo-freelogovectors.net_.png" alt="Power BI" height="80" />  
 <img style="margin: 10px" src="https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg" alt="Tableau" height="80" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg" alt="PostHog" height="80" />  
 
