@@ -9,10 +9,11 @@
 
 ### <div align="center">My Brief Introduction</div><br />
 
-- 🎓 I'm a Bachelors of Technology. 6x Microsoft Certified Professional, 2x Google Certified and Tableau Certified.
-- Completed Diploma in Robotic Process Automation from "University of Toronto". 
+- 🎓 6x Microsoft Certified Professional, 2x Google Certified and Tableau Certified.
+  
+- 🎓 Degree in Bachelors of Technology. Diploma in Robotic Process Automation from "University of Toronto",Canada. 
 
-- 🌱 Passionate about Business, Statistics, Data, AI, Automations and Emerging Technologies.
+- 🔥 Passionate about Business, Statistics, Data, AI, Automations and Emerging Technologies.
 
 - 💼 I’m currently working as a Sr. Business Intelligence Consultant
 
